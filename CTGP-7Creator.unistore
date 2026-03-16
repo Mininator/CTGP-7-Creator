@@ -1,0 +1,28 @@
+{
+  "storeInfo": {
+    "title": "CTGP-7 Creator",
+    "author": "TonPseudo",
+    "description": "Character pack for CTGP-7"
+  },
+
+  "apps": [
+    {
+      "title": "CTGP-7 Character Pack",
+      "author": "TonPseudo",
+      "description": "Custom characters for Mario Kart 7",
+      "version": "1.0",
+      "category": "game",
+      "systems": ["3DS"],
+
+      "icon": "icon.png",
+
+      "downloads": [
+        {
+          "type": "archive",
+          "url": "https://tonpseudo.github.io/ctgp7creator/skinpack.chpack",
+          "output": "sdmc:/CTGP-7/MyStuff/Characters"
+        }
+      ]
+    }
+  ]
+}
