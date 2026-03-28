@@ -2,7 +2,7 @@
   "storeInfo": {
     "title": "CTGP-7 Creator",
     "author": "By Mininator",
-    "description": "CTGP-7 Creator is an unofficial UniStore that allows you to easily create, manage and install custom characters, kart skins and other mods for CTGP-7.",
+    "description": "CTGP-7 Creator is an unofficial UniStore that allows you to easily create, manage and install custom characters, kart , skins , Maps for CTGP-7.",
     "url": "https://mininator.github.io/CTGP-7-Creator/ctgp-7-creator.unistore",
     "file": "ctgp-7-creator.unistore",
     "revision": 1,
@@ -21,7 +21,7 @@
       "Install": [
         {
           "type": "downloadFile",
-          "file": "https://prostomial-sixta-projectively.ngrok-free.dev/CTGP-7/MyStuff/Characters/Skipper.chpack",
+          "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/Skipper.chpack",
           "output": "sdmc:/CTGP-7/MyStuff/Characters/Skipper.chpack"
         }
       ]
@@ -38,7 +38,7 @@
       "Install": [
         {
           "type": "downloadFile",
-          "file": "https://prostomial-sixta-projectively.ngrok-free.dev/CTGP-7/MyStuff/Characters/DS_Mario.chpack",
+          "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/DS_Mario.chpack",
           "output": "sdmc:/CTGP-7/MyStuff/Characters/DS_Mario.chpack"
         }
       ]
@@ -55,7 +55,7 @@
       "Install": [
         {
           "type": "downloadFile",
-          "file": "https://prostomial-sixta-projectively.ngrok-free.dev/CTGP-7/MyStuff/Characters/DS_Luigi.chpack",
+          "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/DS_Luigi.chpack",
           "output": "sdmc:/CTGP-7/MyStuff/Characters/DS_Luigi.chpack"
         }
       ]
@@ -72,7 +72,7 @@
       "Install": [
         {
           "type": "downloadFile",
-          "file": "https://prostomial-sixta-projectively.ngrok-free.dev/CTGP-7/MyStuff/Characters/DS_Toad.chpack",
+          "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/DS_Toad.chpack",
           "output": "sdmc:/CTGP-7/MyStuff/Characters/DS_Toad.chpack"
         }
       ]
@@ -89,7 +89,7 @@
       "Install": [
         {
           "type": "downloadFile",
-          "file": "https://prostomial-sixta-projectively.ngrok-free.dev/CTGP-7/MyStuff/Characters/Toadsworth.chpack",
+          "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/Toadsworth.chpack",
           "output": "sdmc:/CTGP-7/MyStuff/Characters/Toadsworth.chpack"
         }
       ]
