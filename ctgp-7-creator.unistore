@@ -24,13 +24,13 @@
           "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/Skipper.chpack",
           "output": "sdmc:/CTGP-7/MyStuff/Characters/Skipper.chpack"
         }
-      ], 
-      "Uninstall"[
-       {
-         "type": "deleteFile",
-         "file": "sdmc:/CTGP-7/MyStuff/Characters/Skipper.chpack"
-      }
-
+      ],
+     "Uninstall": [
+        {
+          "type": "deleteFile",
+          "file": "sdmc:/CTGP-7/MyStuff/Characters/Skipper.chpack",
+          
+        }
       ]
     },
     {
