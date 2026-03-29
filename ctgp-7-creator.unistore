@@ -93,6 +93,91 @@
           "output": "sdmc:/CTGP-7/MyStuff/Characters/Toadsworth.chpack"
         }
       ]
+    },
+    {
+      "info": {
+        "title": "Classic Mario (Mario Kart Tour)",
+        "author": "By SammyGoesHowdy",
+        "description": "",
+        "category": ["Skin","Kart"],
+        "console": ["3DS"],
+        "version": "1.0.0"
+      },
+      "Install": [
+        {
+          "type": "downloadFile",
+          "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/Classic_Mario.chpack",
+          "output": "sdmc:/CTGP-7/MyStuff/Characters/Classic_Mario.chpack"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Classic Luigi (Mario Kart Tour)",
+        "author": "By SammyGoesHowdy",
+        "description": "",
+        "category": ["Skin","Kart"],
+        "console": ["3DS"],
+        "version": "1.0.0"
+      },
+      "Install": [
+        {
+          "type": "downloadFile",
+          "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/Classic_Luigi.chpack",
+          "output": "sdmc:/CTGP-7/MyStuff/Characters/Classic_Luigi.chpack"
+        }
+      ]
+    }
+    {
+      "info": {
+        "title": "Wario (Mario Kart Wii)",
+        "author": "By ExoDendrite",
+        "description": "",
+        "category": ["Skin","Kart"],
+        "console": ["3DS"],
+        "version": "1.0.0"
+      },
+      "Install": [
+        {
+          "type": "downloadFile",
+          "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/Wii_Wario.chpack",
+          "output": "sdmc:/CTGP-7/MyStuff/Characters/Wii_Wario.chpack"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Ice Luigi",
+        "author": "By ExoDendrite",
+        "description": "",
+        "category": ["Skin"],
+        "console": ["3DS"],
+        "version": "1.0.0"
+      },
+      "Install": [
+        {
+          "type": "downloadFile",
+          "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/Ice_Luigi.chpack",
+          "output": "sdmc:/CTGP-7/MyStuff/Characters/Ice_Luigi.chpack"
+        }
+      ]
+    },
+    {
+      "info": {
+        "title": "Fire Mario",
+        "author": "By ExoDendrite",
+        "description": "",
+        "category": ["Skin"],
+        "console": ["3DS"],
+        "version": "1.0.0"
+      },
+      "Install": [
+        {
+          "type": "downloadFile",
+          "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/Fire_Mario.chpack",
+          "output": "sdmc:/CTGP-7/MyStuff/Characters/Fire_Mario.chpack"
+        }
+      ]
     }
   ]
 }
