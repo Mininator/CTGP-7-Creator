@@ -195,13 +195,56 @@
           "output": "sdmc:/CTGP-7/MyStuff/Characters/DS_Shy_Guy.chpack"
         }
       ],
-      "Shy Guy (Blue)": [
+      "Shy Guy (Light Blue)": [
         {
           "type": "downloadFile",
           "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/DS_Shy_Guy_LBlue.chpack",
           "output": "sdmc:/CTGP-7/MyStuff/Characters/DS_Shy_Guy_LBlue.chpack"
         }
+      ],
+      "Shy Guy (Blue)": [
+        {
+          "type": "downloadFile",
+          "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/DS_Shy_Guy_Blue.chpack",
+          "output": "sdmc:/CTGP-7/MyStuff/Characters/DS_Shy_Guy_Blue.chpack"
+        }
+      ],
+      "Shy Guy (Yellow)": [
+        {
+          "type": "downloadFile",
+          "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/DS_Shy_Guy_Yellow.chpack",
+          "output": "sdmc:/CTGP-7/MyStuff/Characters/DS_Shy_Guy_Yellow.chpack"
+        }
+      ],
+      "Shy Guy (Green)": [
+        {
+          "type": "downloadFile",
+          "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/DS_Shy_Guy_Green.chpack",
+          "output": "sdmc:/CTGP-7/MyStuff/Characters/DS_Shy_Guy_Green.chpack"
+        }
+      ],
+      "Shy Guy (Pink)": [
+        {
+          "type": "downloadFile",
+          "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/DS_Shy_Guy_Pink.chpack",
+          "output": "sdmc:/CTGP-7/MyStuff/Characters/DS_Shy_Guy_Pink.chpack"
+        }
+      ],
+      "Shy Guy (Black)": [
+        {
+          "type": "downloadFile",
+          "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/DS_Shy_Guy_Black",
+          "output": "sdmc:/CTGP-7/MyStuff/Characters/DS_Shy_Guy_Black"
+        }
+      ],
+      "Shy Guy (White)": [
+        {
+          "type": "downloadFile",
+          "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/DS_Shy_Guy_White",
+          "output": "sdmc:/CTGP-7/MyStuff/Characters/DS_Shy_Guy_White"
+        }
       ]
+      
     }
   ]
 }
