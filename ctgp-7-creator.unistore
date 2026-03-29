@@ -2,7 +2,7 @@
   "storeInfo": {
     "title": "CTGP-7 Creator",
     "author": "By Mininator",
-    "description": "CTGP-7 Creator is an unofficial UniStore that allows you to easily create, manage and install custom characters, kart , skins , Maps for CTGP-7.",
+    "description": "CTGP-7 Creator is an unofficial UniStore that allows you to easily create, manage and install custom characters, kart, skins, Maps for CTGP-7.",
     "url": "https://mininator.github.io/CTGP-7-Creator/ctgp-7-creator.unistore",
     "file": "ctgp-7-creator.unistore",
     "revision": 1,
@@ -28,7 +28,7 @@
     },
     {
       "info": {
-        "title": "Mario (Mario kart DS)",
+        "title": "Mario (Mario Kart DS)",
         "author": "By ExoDendrite",
         "description": "",
         "category": ["Skin","Kart"],
@@ -181,19 +181,21 @@
     },
     {
       "info": {
-        "title": "Shy Guy (Mario Kart DS) ",
+        "title": "Shy Guy (Mario Kart DS)",
         "author": "By ExoDendrite",
         "description": "",
         "category": ["Skin"],
         "console": ["3DS"],
         "version": "1.0.0"
       },
-      "Install Shy Guy": [
+      "Shy Guy": [
         {
           "type": "downloadFile",
           "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/DS_Shy_Guy.chpack",
           "output": "sdmc:/CTGP-7/MyStuff/Characters/DS_Shy_Guy.chpack"
-        },
+        }
+      ],
+      "Shy Guy (Blue)": [
         {
           "type": "downloadFile",
           "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/DS_Shy_Guy_LBlue.chpack",
