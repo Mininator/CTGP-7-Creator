@@ -193,9 +193,7 @@
           "type": "downloadFile",
           "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/DS_Shy_Guy.chpack",
           "output": "sdmc:/CTGP-7/MyStuff/Characters/DS_Shy_Guy.chpack"
-        }
-      ],
-      "Install Shy Guy Blue ": [
+        },
         {
           "type": "downloadFile",
           "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/DS_Shy_Guy_LBlue.chpack",
