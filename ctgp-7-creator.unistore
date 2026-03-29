@@ -233,15 +233,15 @@
       "Install Shy Guy (Black)": [
         {
           "type": "downloadFile",
-          "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/DS_Shy_Guy_Black",
-          "output": "sdmc:/CTGP-7/MyStuff/Characters/DS_Shy_Guy_Black"
+          "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/DS_Shy_Guy_Black.chpack",
+          "output": "sdmc:/CTGP-7/MyStuff/Characters/DS_Shy_Guy_Black.chpack"
         }
       ],
       "Install Shy Guy (White)": [
         {
           "type": "downloadFile",
-          "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/DS_Shy_Guy_White",
-          "output": "sdmc:/CTGP-7/MyStuff/Characters/DS_Shy_Guy_White"
+          "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/DS_Shy_Guy_White.chpack",
+          "output": "sdmc:/CTGP-7/MyStuff/Characters/DS_Shy_Guy_White.chpack"
         }
       ]
       
