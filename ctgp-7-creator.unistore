@@ -248,8 +248,8 @@
     },
     {
       "info": {
-        "title": "Fire Mario",
-        "author": "By ExoDendrite",
+        "title": "Clippy",
+        "author": "By Somwonere",
         "description": "",
         "category": ["Skin"],
         "console": ["3DS"],
@@ -258,8 +258,8 @@
       "Install": [
         {
           "type": "downloadFile",
-          "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/Fire_Mario.chpack",
-          "output": "sdmc:/CTGP-7/MyStuff/Characters/Fire_Mario.chpack"
+          "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/Clippy.chpack",
+          "output": "sdmc:/CTGP-7/MyStuff/Characters/Clippy.chpack"
         }
       ]
     }
