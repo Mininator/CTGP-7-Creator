@@ -24,6 +24,12 @@
           "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/Skipper.chpack",
           "output": "sdmc:/CTGP-7/MyStuff/Characters/Skipper.chpack"
         }
+      ],
+     "Uninstall": [
+        {
+          "type": "deleteFile",
+          "file": "sdmc:/CTGP-7/MyStuff/Characters/Skipper.chpack"
+       }
       ]
     },
     {
@@ -41,6 +47,12 @@
           "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/DS_Mario.chpack",
           "output": "sdmc:/CTGP-7/MyStuff/Characters/DS_Mario.chpack"
         }
+      ],
+      "Uninstall": [
+        {
+          "type": "deleteFile",
+          "file": "sdmc:/CTGP-7/MyStuff/Characters/DS_Mario.chpack"
+       }
       ]
     },
     {
@@ -58,6 +70,12 @@
           "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/DS_Luigi.chpack",
           "output": "sdmc:/CTGP-7/MyStuff/Characters/DS_Luigi.chpack"
         }
+      ],
+      "Uninstall": [
+        {
+          "type": "deleteFile",
+          "file": "sdmc:/CTGP-7/MyStuff/Characters/DS_Luigi.chpac"
+       }
       ]
     },
     {
@@ -75,6 +93,12 @@
           "file": "https://mininator.github.io/CTGP-7-Creator/CTGP-7/MyStuff/Characters/DS_Toad.chpack",
           "output": "sdmc:/CTGP-7/MyStuff/Characters/DS_Toad.chpack"
         }
+      ],
+     "Uninstall": [
+        {
+          "type": "deleteFile",
+          "file": "sdmc:/CTGP-7/MyStuff/Characters/DS_Toad.chpack"
+       }
       ]
     },
     {
